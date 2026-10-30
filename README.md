@@ -8,7 +8,7 @@ A TUI is an app that runs inside a terminal window but behaves like a full app, 
 
 | TUI | What it does | Status | Repository |
 |---|---|---|---|
-| **vizdesk** | Scans CSV and Excel files, suggests cleaning steps and charts by fixed rules (no LLM), and draws PNG figures in a grid you choose. Saves a redraw recipe, a notebook script and alt text with every figure. | v0.2.0 on [PyPI](https://pypi.org/project/vizdesk/): `pipx install vizdesk`. npm and Homebrew coming. | [rafsunsheikh/vizdesk](https://github.com/rafsunsheikh/vizdesk) |
+| **vizdesk** | Scans CSV and Excel files, suggests cleaning steps and charts by fixed rules (no LLM), and draws PNG figures in a grid you choose. Saves a redraw recipe, a notebook script and alt text with every figure. | v0.2.0 on [PyPI](https://pypi.org/project/vizdesk/) (`pipx install vizdesk`) and [npm](https://www.npmjs.com/package/vizdesk) (`npm install -g vizdesk`). Homebrew coming. | [rafsunsheikh/vizdesk](https://github.com/rafsunsheikh/vizdesk) |
 
 ## How we build them
 
